@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(midnightblue,midnightblue) ;
+    color: aqua;
+}
+#bruh{
+    width: 100%;
+     font-size:25px ;
+     margin: 0;
+     color: aqua;
+}
+#showsketch{
+    float :right ;
+}
+canvas{
+    
+    background-color: aliceblue;
+    margin-top: 125px;
+}
